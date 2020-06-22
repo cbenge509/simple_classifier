@@ -8,12 +8,21 @@ Simple LightGBM Classifier
 
 #### Authors : [Cristopher Benge](https://cbenge509.github.io/) 
 
-Jupyter Notebook containing simple data pre-processing and training, evaluation, and reporting of a LightGBM Classifier trained on a binary classification task.  The data consists of example patient demographics, blood pressure and steps-per-day telemetry measurements, and some information regarding the distance to the doctors office and the weather on the day of the visit.  The task of the classifier is to predict whether or not a patience will make their appointment or not.
+[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/0)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/0)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/1)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/1)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/2)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/2)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/3)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/3)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/4)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/4)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/5)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/5)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/6)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/6)[![](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/images/7)](https://sourcerer.io/fame/cbenge509/cbenge509/arxiv-ai-analysis/links/7)
+
+<br>
 
 ---
+
+## Description
+
+---
+
+Jupyter Notebook containing simple data pre-processing and training, evaluation, and reporting of a LightGBM Classifier trained on a binary classification task.  The data consists of example patient demographics, blood pressure and steps-per-day telemetry measurements, and some information regarding the distance to the doctors office and the weather on the day of the visit.  The task of the classifier is to predict whether or not a patience will make their appointment or not.
+
 Model Performance | Feature Imporance
 :----------------:|:------------------:
-| ![alt-text-1](./images/model_performance.png "title-1") | ![alt-text-2](./images/feature_importance.png "title-2") |
+| ![alt-text-1](./images/model_performance.png "Model Performance") | ![alt-text-2](./images/feature_importance.png "Feature Importance") |
 
 ---
 
