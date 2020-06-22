@@ -16,7 +16,6 @@ Simple LightGBM Classifier
 
 ## Description
 
----
 
 Jupyter Notebook containing simple data pre-processing and training, evaluation, and reporting of a LightGBM Classifier trained on a binary classification task.  The data consists of example patient demographics, blood pressure and steps-per-day telemetry measurements, and some information regarding the distance to the doctors office and the weather on the day of the visit.  The task of the classifier is to predict whether or not a patience will make their appointment or not.
 
@@ -28,7 +27,6 @@ Model Performance | Feature Imporance
 
 ## Key Solution Files
 
----
 
   |File | Description |
   |:----|:------------|
@@ -37,24 +35,21 @@ Model Performance | Feature Imporance
   |[daily_measurements_v2.csv](/data/daily_measurements_v2.csv) | contains a daily list of patient blood-pressure readings and step counts. |
   |[patients_v2.csv](/data/patients_v2.csv) | contains a basic demographic list of [fictive] patient data. |
   
+---
 
 ## Performance
 
----
-
 This solution achieves a score of **94.2% accuracy** and **96.57% f1**.  No separate test dataset was provided, so evaluation is against a non-stratified KFold (K=10) scheme.
 
+---
 
 ## Evaluation Criteria
 
----
-
 This project was measured against the standard classification [accuracy score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html) and [f1 score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html?highlight=f1_score#sklearn.metrics.f1_score).
 
+---
 
 ## Model Architecture
-
----
 
 An implementation of a gradient boosted decision tree ([LightGBMClasifier](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html)) was used.  Below is a simple example of its use in the project:
 
@@ -68,6 +63,6 @@ model.fit(x, y, verbose = False)
 
 ---
 
-License
--------
+## License
+
 Licensed under the MIT License. See [LICENSE](LICENSE.txt) file for more details.
