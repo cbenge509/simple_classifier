@@ -1,7 +1,8 @@
 Simple LightGBM Classifier
 ===========================
 
-![GitHub](https://img.shields.io/github/license/cbenge509/kaggle_facial_keypoints) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/kaggle_facial_keypoints/tensorflow) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/kaggle_facial_keypoints/keras) ![GitHub contributors](https://img.shields.io/github/contributors/cbenge509/kaggle_facial_keypoints) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cbenge509/kaggle_facial_keypoints?include_prereleases)
+![GitHub](https://img.shields.io/github/license/cbenge509/simple_classifier) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/simple_classifier/lightgbm) ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/cbenge509/simple_classifier/pandas) ![GitHub contributors](https://img.shields.io/github/contributors/cbenge509/simple_classifier) ![GitHub last commit](https://img.shields.io/github/last-commit/cbenge509/simple_classifier)
+
 
 <img align="right" width="180" src="./images/msft_logo.png"/>
 
